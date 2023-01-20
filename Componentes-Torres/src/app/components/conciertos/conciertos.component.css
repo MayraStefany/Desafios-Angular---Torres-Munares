@@ -1,0 +1,14 @@
+.conciertos {
+    background-color: #f0f0f042;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.product-entry {
+    border: 1px solid #a0cff0;
+    padding: 5%;
+}
+
+.card {
+    border: 1px solid #a0cff0;
+}
