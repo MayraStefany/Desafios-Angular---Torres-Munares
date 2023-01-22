@@ -1,0 +1,21 @@
+.navbar {
+    background-color: #fafafa;
+    height: 460px;
+}
+
+.nav-pills {
+    min-height: 100vh;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #fafafa;
+    background-color: #000000;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #000000;
+    text-decoration: none;
+}
