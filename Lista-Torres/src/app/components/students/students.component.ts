@@ -6,5 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./students.component.css']
 })
 export class StudentsComponent {
+  title = 'Resultado de Alumnos de Intercambio';
 
+  headers =[
+    'ID',
+    'Nombre y Apellido',
+    'Postulación',  /*Universidad de intercambio*/
+    'Idioma',
+    'Nota Promedio',
+  ];
 }
