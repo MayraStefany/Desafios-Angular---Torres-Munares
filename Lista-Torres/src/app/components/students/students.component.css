@@ -1,0 +1,19 @@
+.contents {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+}
+
+.headt td {
+    min-width: 235px;
+    height: 30px;
+    background-color: #fafafa;
+}
+
+.aprovado {
+    color: #1c9243;
+}
+
+.desaprovado {
+    color: #972020;
+}
