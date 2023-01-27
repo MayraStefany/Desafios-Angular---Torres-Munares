@@ -1,5 +1,5 @@
 .contents {
-    background-color: #f0f0f0;
+    background-color: #f0f0f04a;
     text-align: center;
     padding: 15px 15px 15px 15px;
 }
@@ -16,4 +16,8 @@
 
 .desaprovado {
     color: #972020;
+}
+
+.titulo{
+    color: #4876af;
 }
