@@ -1,11 +1,11 @@
 <div class="contents">
     <div class="container">
-        <h1 class="titulo">{{ title }}</h1>
+        <h1 class="titulo">{{ title }} <img height="35" width-top="10" src="../../../assets/imgs/banderaUK.jpg"></h1>
         <hr />
         <div class="row">
             <div  class="col-12">
                 <div class="card" [ngClass]="+ estudiante.Nota < 13 ? 'desaprovado' : 'aprovado'" *ngFor="let estudiante of rows">
-                    <img src="{{estudiante.imagen}}" class="card-img-top" style="height: 260px;">
+                    <img src="{{estudiante.imagen}}" class="card-img-top" style="height: 300px;">
                     <div class="card-body">
                         <h4 class="card-title">{{estudiante.Nombre}}</h4>
                         <p class="card-text">

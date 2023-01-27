@@ -13,5 +13,5 @@
 .grid-container {
     display: grid;
     grid-template-areas: 'header header header header header header' 'menu main main main main main';
-    background-image: url(../../src/assets/imgs/fondo2.png);
+    background-image: url(../../src/assets/imgs/fondo8.1.jpg);
 }
